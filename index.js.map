@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["console.log(\"Deneme\")\r\n"],"names":[],"mappings":"0uBAAA,QAAQ,IAAI,QAAQ"}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["console.log(\"Deneme\")\r\nconst denemeh1 = document.getElementById(\"denemeh1\")\r\ndenemeh1.innerText = \"Hop\"\r\n"],"names":["denemeh1"],"mappings":"0uBAAA,QAAQ,IAAI,QAAQ,EACpB,MAAMA,EAAW,SAAS,eAAe,UAAU,EACnDA,EAAS,UAAY"}
